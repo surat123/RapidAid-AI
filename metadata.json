@@ -1,0 +1,9 @@
+{
+  "name": "RapidAid AI",
+  "description": "A digital triage platform using AI to predict Emergency Severity Index (ESI) and prioritize patient care before hospital arrival.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation",
+    "camera"
+  ]
+}
